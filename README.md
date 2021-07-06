@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Kei-shii
-- 👀 I’m interested in Data Science 
-- 🌱 I’m currently learning SQL, Python, and other Data Science tools
+- 👋 Hi, I’m Kat!
+- 👀 I’m interested in Data Science and Analytics, Math, and Technology!
+- 🌱 I'm a beginner and am expanding my skillset by learning SQL, Python, and other Data Science tools
 - 💞️ I’m looking to collaborate on any kind of project related to Data Science
 - 📫 Reach out to me here!
